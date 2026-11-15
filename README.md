@@ -1,0 +1,2 @@
+# NumberGuessingGame
+ # Number Guessing Game 🎮  My first C# console application!  ## About A simple number guessing game where the computer generates a random number between 1 and 100.  The player must guess the correct number.  ## Requirements - .NET SDK  ## How to Run  1. Clone or download this repository. 2. Open the project folder in a terminal. 3. Run:     dotnet run  ## Technologies - C# - .NET - Visual Studio 2022  ## Developer Nhlakanipho
