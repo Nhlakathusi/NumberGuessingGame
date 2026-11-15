@@ -1,8 +1,8 @@
-# 🎮 Number Guessing Game
+# Number Guessing Game
 
 My first C# console application!
 
-## 📌 About the Project
+## About the Project
 
 Number Guessing Game is a simple console-based game developed using C#.
 
@@ -13,7 +13,7 @@ The game provides hints to help the player:
 - **Too high!** – Your guess is higher than the secret number.
 - **Correct!** – You've guessed the right number!
 
-## 🚀 Features
+## Features
 
 - Random number generation
 - Interactive console gameplay
@@ -21,18 +21,18 @@ The game provides hints to help the player:
 - Attempt counter
 - Replay functionality
 
-## 🛠️ Technologies Used
+## Technologies Used
 
 - C#
 - .NET
 - Visual Studio 2022
 
-## 📋 Requirements
+## Requirements
 
 - Windows
 - .NET SDK
 
-## ▶️ How to Run
+## How to Run
 
 1. Clone or download this repository.
 2. Open the project folder.
@@ -44,7 +44,7 @@ Alternatively, open a terminal in the project directory and run:
 dotnet run
 ```
 
-## 🎯 What I Learned
+## What I Learned
 
 Through this project, I practised:
 
@@ -56,11 +56,11 @@ Through this project, I practised:
 - Basic input validation
 - Console output
 
-## 👨‍💻 Developer
+## Developer
 
-**Nhlakanipho**
+**Nhlakanipho Thusi**
 
-IT Student | Aspiring Software Developer
+IT Student
 
 ---
 
